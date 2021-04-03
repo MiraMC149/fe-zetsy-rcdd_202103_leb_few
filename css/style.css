@@ -25,7 +25,7 @@ h1{
 }
 p2{
 	font-size: 18px;
-	color:;
+	color: #6e7f83;
 }
 p{
   display: block;
@@ -33,9 +33,9 @@ p{
 	margin-left: 20px;
 	margin-right: 20px;
 }
+
 footer{
 	text-align: left;
 	margin-left: 20px;
 	font-size: 10px;
-
 }
